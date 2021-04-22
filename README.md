@@ -1,4 +1,5 @@
 # Welcome to Hyper Bot !
+# Creator is @TheVariantsBot
 ## Create your own permanent Hyper Bot ( runs on Heroku, no Lc0 )
 If you want to create your own permanent bot, do the following:  
   
